@@ -3,7 +3,8 @@ This is my Global Trekker Hub end to end project
 
 🛠️ Built With:
 🌐 **HTML** for basic Structure
-🎨 CSS
+
+🎨 **CSS** for 
 ⚙️ JavaScript (for basic interactivity)
 
 🧾 Features:
