@@ -5,7 +5,8 @@ This is my Global Trekker Hub end to end project
 🌐 **HTML** for basic Structure
 
 🎨 **CSS** for styling
-⚙️ JavaScript (for basic interactivity)
+
+⚙️ **JavaScript** for basic interactivity
 
 🧾 Features:
 🗺️ List of popular travel destinations
