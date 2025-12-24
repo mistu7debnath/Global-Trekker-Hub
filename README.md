@@ -2,6 +2,7 @@
 This is my Global Trekker Hub end to end project
 
 🛠️ Built With:
+
 🌐 **HTML** for basic Structure
 
 🎨 **CSS** for styling
@@ -14,7 +15,7 @@ This is my Global Trekker Hub end to end project
 ⚡ Basic interactivity powered by JavaScript
 🎯 Clean and easy-to-navigate layout
 
-✨ Thank you for visiting my repository! ✨
+✨ **Thank you for visiting my repository!** ✨
 
 
 
