@@ -2,7 +2,7 @@
 This is my Global Trekker Hub end to end project
 
 🛠️ Built With:
-🌐 HTML
+🌐 HTML for Structure
 🎨 CSS
 ⚙️ JavaScript (for basic interactivity)
 
